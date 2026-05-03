@@ -1,0 +1,111 @@
+[{
+        "id": 1,
+        "title": "Complete Web Development Bootcamp",
+        "instructor": "John Doe",
+        "duration": "20 hours",
+        "rating": 4.8,
+        "level": "Beginner",
+        "description": "Learn full-stack web development from scratch using MERN stack.",
+        "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=600",
+        "category": "Development"
+    },
+    {
+        "id": 2,
+        "title": "Mastering React and Next.js",
+        "instructor": "Jane Smith",
+        "duration": "15 hours",
+        "rating": 4.9,
+        "level": "Intermediate",
+        "description": "Build high-performance web applications with Next.js 14.",
+        "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&q=80&w=600",
+        "category": "Development"
+    },
+    {
+        "id": 3,
+        "title": "UI/UX Design Essentials",
+        "instructor": "Sarah Wilson",
+        "duration": "12 hours",
+        "rating": 4.7,
+        "level": "Beginner",
+        "description": "Master Figma and design beautiful user interfaces.",
+        "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?q=80&w=600&auto=format&fit=crop",
+        "category": "Design"
+    },
+    {
+        "id": 4,
+        "title": "Digital Marketing Strategy 2024",
+        "instructor": "Mark Thompson",
+        "duration": "10 hours",
+        "rating": 4.6,
+        "level": "All Levels",
+        "description": "Grow your business with SEO, SEM, and Social Media Marketing.",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=600",
+        "category": "Marketing"
+    },
+    {
+        "id": 5,
+        "title": "Python for Data Science",
+        "instructor": "David Miller",
+        "duration": "18 hours",
+        "rating": 4.8,
+        "level": "Intermediate",
+        "description": "Learn Python libraries like Pandas, NumPy, and Matplotlib.",
+        "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80&w=600",
+        "category": "Data Science"
+    },
+    {
+        "id": 6,
+        "title": "Advanced Graphic Design",
+        "instructor": "Emma Davis",
+        "duration": "14 hours",
+        "rating": 4.5,
+        "level": "Advanced",
+        "description": "Master Adobe Illustrator and Photoshop for professional branding.",
+        "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&q=80&w=600",
+        "category": "Design"
+    },
+    {
+        "id": 7,
+        "title": "Node.js and MongoDB Masterclass",
+        "instructor": "Alex Carter",
+        "duration": "16 hours",
+        "rating": 4.7,
+        "level": "Intermediate",
+        "description": "Build scalable backend systems with Node and MongoDB Atlas.",
+        "image": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?auto=format&fit=crop&q=80&w=600",
+        "category": "Development"
+    },
+    {
+        "id": 8,
+        "title": "Facebook Ads & Instagram Growth",
+        "instructor": "Laura White",
+        "duration": "8 hours",
+        "rating": 4.9,
+        "level": "Beginner",
+        "description": "Create high-converting ad campaigns and grow your audience.",
+        "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&q=80&w=600",
+        "category": "Marketing"
+    },
+    {
+        "id": 9,
+        "title": "Cyber Security for Beginners",
+        "instructor": "Chris Evans",
+        "duration": "22 hours",
+        "rating": 4.8,
+        "level": "Beginner",
+        "description": "Protect your digital assets and learn ethical hacking basics.",
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=600",
+        "category": "IT & Software"
+    },
+    {
+        "id": 10,
+        "title": "Full-Stack Django with Python",
+        "instructor": "Michael Scott",
+        "duration": "25 hours",
+        "rating": 4.9,
+        "level": "Intermediate",
+        "description": "Build robust web applications using Python and Django framework.",
+        "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&q=80&w=600",
+        "category": "Development"
+    }
+]
